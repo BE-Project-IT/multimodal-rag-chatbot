@@ -35,7 +35,7 @@ def get_jina_embeddings(texts, model, tokenizer):
     with torch.no_grad():
         outputs = model(**inputs)
     
-    # Use the [CLS] token embeddings as sentence embeddings
+    # Use the [CLS] token embeddings as sentence embeddingsa
     embeddings = outputs.last_hidden_state[:, 0, :].numpy()
     
     # Normalize the embeddings
