@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# IDE or Editor files
+*.swp
+*.swo
+*.DS_Store
+
+
