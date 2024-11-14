@@ -1,8 +1,8 @@
-openai
-streamlit
-langchain
-pydantic
-langchain-community 
-langchain-core
-faiss-cpu
-sentence-transformers
+# openai
+# streamlit
+# langchain
+# pydantic
+# langchain-community 
+# langchain-core
+# faiss-cpu
+# sentence-transformers
