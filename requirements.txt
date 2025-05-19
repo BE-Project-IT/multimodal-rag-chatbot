@@ -1,8 +1,12 @@
-# openai
-# streamlit
-# langchain
-# pydantic
-# langchain-community 
-# langchain-core
-# faiss-cpu
-# sentence-transformers
+streamlit
+unstructured
+transformers
+torch
+sentence-transformers
+langchain
+faiss-cpu
+Pillow
+google-generativeai
+accelerate
+bitsandbytes
+langchain-community
